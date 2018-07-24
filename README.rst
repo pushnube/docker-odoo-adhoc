@@ -1,9 +1,9 @@
 Odoo Docker Compose and Images
 ==============================
-This repository contains a set of dockerfiles to build different docker images used by ADHOC.
-It also provides a docker-compose file to use odoo in a simple way.
+Este repositorio contiene un conjunto de archivos docker para construir diferentes imágenes acoplables usadas por ADHOC.
+También proporciona un archivo docker-compose para usar odoo de una manera simple.
 
-The default odoo docker image (adhoc/odoo-ar) that is used on compose, includes many repositories (and it dependencies) generally used by adhoc (mainly oca and ingadhoc repositories)  
+La imagen predeterminada de odoo docker (adhoc / odoo-ar) que se usa en compose incluye muchos repositorios (y sus dependencias) generalmente utilizados por adhoc (principalmente repositorios de oca e ingadhoc)
 
 Requirements
 ============
